@@ -1,0 +1,128 @@
+
+	
+	.container{
+				border:4px solid #fff3;
+				color:dimgrey;
+				font-family:arial;
+				background-color:#f9f7fa;
+				
+				}
+			.row{
+				border:3px solid #fff;	
+				/*background-image: URL("https://www.pushpastoneimpex.com/catalog-wlimg/1/443672/other-images/68478.jpg");
+				background-repeat: no-repeat;
+				opacity:50%;
+				*/
+					}
+			.col-8, .col-4{
+				border:2px solid #fff;
+				color:#007bff;
+					}
+					#opt{
+					margin: 10px;
+					padding:10px;
+					text-align: center;
+					text-decoration: none;
+					display: block;
+					background-color:white;
+					border-radius: 10px;
+					color:aqua;
+					width:5cm;
+					box-shadow: 2px 2px 5px darkorchid;
+					cursor: pointer;
+					}
+					#opt:hover{
+					background-color:orangered;
+					color:white;
+					box-shadow:2px 2px 5px tomato;
+					opacity: 50%;
+					cursor: pointer;
+					}
+				.ancr{
+					margin:10px;
+					padding:10px;
+					border:2px solid gray;
+					border-radius:50px;
+					color:white;
+					background-color:#007bff;
+					text-align: center;
+					text-decoration: none;
+					width:50%;
+					display:block;
+				}
+				.ancr:hover{
+					cursor:pointer;
+					color:aqua;
+					background-color: mediumvioletred;
+					box-shadow:2px 2px 5px gray;
+				
+				}
+				.ancr2{
+					margin:10px;
+					padding:10px;
+					border:2px solid gray;
+					border-radius:50px;
+					color:violet;
+					background-color:navy;
+					text-align: center;
+					text-decoration: none;
+					width:50%;
+					display:block;
+					
+					
+				}
+				.ancr2:hover{
+					cursor:pointer;
+					color:mediumseagreen;
+					background-color: rgb(199, 89, 21);
+					box-shadow:2px 2px 5px gray;
+				}
+				img{
+					padding:5px;
+					box-shadow:2px 4px 10px tomato;
+				}
+				#sea{
+					margin:10px;
+					margin-left:5cm;
+					padding:10px;
+					border:2px solid mediumseagreen;
+					border-radius:50px;
+					border-color:gray;
+					float:center;
+					background-color:white;
+					width:50px;
+					display: block;
+					display:flex;
+					box-shadow: 2px 2px 2px goldenrod;
+				}
+				#anCol{
+					margin: 10px;
+					padding:10px;
+					text-align: center;
+					text-decoration: none;
+					display: block;
+					background-color:white;
+					border-radius: 10px;
+					color:aqua;
+					width:5cm;
+					box-shadow: 2px 2px 5px darkorchid;
+				
+				}
+				#anCol:hover{
+					background-color:orangered;
+					color:white;
+					box-shadow:2px 2px 5px tomato;
+					opacity: 50%;
+				}
+				.col-6{
+					font-size: 20;
+					font-family:Bodoni MT Condensed;
+				}
+			.col{
+				margin: 5px;
+				padding:5px;
+				color:tomato;
+				text-align: right;
+				display: block;
+
+			}
